@@ -1,0 +1,17 @@
+.preview{
+  width: 200px;
+}
+
+.photo{
+  display: inline-block;
+  width: 100px;
+  height: 300px;
+}
+
+.text{
+  display: inline-block;
+}
+
+.oliver{
+  display: inline-block;
+}
